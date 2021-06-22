@@ -14,13 +14,13 @@ function Home() {
                 <title>JatoClean</title>
             </Head>
             <div class="main-top"> 
-                <div class="logo">
-                    <Image src="/jatoclean-logo.svg" layout="fill"/>
+                <div class="logo shadow-light">
+                    <Image src="/jatoclean-logo.svg" layout="fill" />
                 </div>
             </div>
             <div class="main-bottom">
                 <div class="main-bottom-title-box">
-                    <div class="main-bottom-title">
+                    <div class="main-bottom-title shadow-light">
                         <p class="text-big">MANTENHA SEU AMBIENTE LIMPO E PROTEGIDO</p>
                         <p class="text-mid">LAVAGEM E HIGIENIZAÇÃO DE CARROS E ESTOFADOS</p>
                     </div>
@@ -44,7 +44,7 @@ function Home() {
                         </div>
                     </div>
                 </div>
-                <div class="main-bottom-social-box">
+                <div class="main-bottom-social-box shadow-light">
                     <div class="main-bottom-social-text">
                         <span class="text-mid">
                             ENTRE EM CONTATO CONOSCO E SOLICITE SEU ORÇAMENTO
