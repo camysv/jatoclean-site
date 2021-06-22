@@ -52,13 +52,13 @@ function Home() {
                     </div>
                     <div class="main-bottom-social-icons">
                         <div class="main-bottom-icons-box">
-                            <div class="icon-social" onClick={() => window.open("https://facebook.com/jatocleaneco", '_blank')}>
+                            <div class="icon-social" id="facebook" onClick={() => window.open("https://facebook.com/jatocleaneco", '_blank')}>
                                 <FontAwesomeIcon icon={faFacebookF} />
                             </div>
-                            <div class="icon-social" onClick={() => window.open("https://instagram.com/jatocleaneco", '_blank')}>
+                            <div class="icon-social" id="instagram" onClick={() => window.open("https://instagram.com/jatocleaneco", '_blank')}>
                                 <FontAwesomeIcon icon={faInstagram} />  
                             </div>
-                            <div class="icon-social" onClick={() => window.open("https://abre.ai/whatsappjatoclean", '_blank')}>
+                            <div class="icon-social" id="whatsapp" onClick={() => window.open("https://abre.ai/whatsappjatoclean", '_blank')}>
                                 <FontAwesomeIcon icon={faWhatsapp} />
                             </div>
                         </div>

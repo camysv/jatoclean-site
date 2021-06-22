@@ -192,11 +192,28 @@ p {
 }
 
 
-/* Portrait and Landscape */
+/* Visao Mobile */
 @media only screen 
   and (min-device-width: 375px) 
   and (max-device-width: 667px) 
-  and (-webkit-min-device-pixel-ratio: 2) { 
+  and (-webkit-min-device-pixel-ratio: 2) {
+      
+    #facebook {
+        justify-content: flex-end;
+    }
+
+    #whatsapp {
+        justify-content: flex-start;
+    }
+
+    .main-bottom-social-text {
+        width: 80%;
+    }
+
+    .logo {
+        width: 300px;
+    }
+
     .main-bottom-images-box {
         display: none;
     }
