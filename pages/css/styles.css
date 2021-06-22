@@ -172,6 +172,10 @@ p {
     margin: 0;
 }
 
+.shadow-light {
+    filter: drop-shadow(4px 4px 4px rgba(0,0,0,0.3))
+}
+
 @font-face {
     font-family: encodeSansCondBold;
     src: url(fonts/EncodeSansCondensed-Bold.ttf);
