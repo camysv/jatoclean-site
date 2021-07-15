@@ -58,7 +58,7 @@ function Home() {
                             <div class="icon-social" id="instagram" onClick={() => window.open("https://instagram.com/jatocleaneco", '_blank')}>
                                 <FontAwesomeIcon icon={faInstagram} />  
                             </div>
-                            <div class="icon-social" id="whatsapp" onClick={() => window.open("https://abre.ai/whatsappjatoclean", '_blank')}>
+                            <div class="icon-social" id="whatsapp" onClick={() => window.open("https://bit.ly/jatocleanwpp", '_blank')}>
                                 <FontAwesomeIcon icon={faWhatsapp} />
                             </div>
                         </div>
