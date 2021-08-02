@@ -22,7 +22,7 @@ function Home() {
                 <div class="main-bottom-title-box">
                     <div class="main-bottom-title shadow-light">
                         <p class="text-big">MANTENHA SEU AMBIENTE LIMPO E PROTEGIDO</p>
-                        <p class="text-mid">LAVAGEM E HIGIENIZAÇÃO DE CARROS E ESTOFADOS</p>
+                        <p class="text-mid">LAVAGEM E HIGIENIZAÇÃO DE ESTOFADOS</p>
                     </div>
                 </div>
                 <div class="main-bottom-images-box">
