@@ -167,6 +167,9 @@ body {
     font-size: 10pt;
 }
 
+.logo-mobile {
+    display: none;
+}
 
 p {
     margin: 0;
@@ -234,4 +237,13 @@ p {
         overflow-y: scroll;
         overflow-x: hidden;
     }
+
+    .logo-desktop {
+        display: none;
+    }
+
+    .logo-mobile {
+        display: block;
+    }
+    
 }
