@@ -14,8 +14,11 @@ function Home() {
                 <title>JatoClean</title>
             </Head>
             <div class="main-top"> 
-                <div class="logo shadow-light">
-                    <Image src="/jatoclean-logo.svg" layout="fill" />
+                <div class="logo shadow-light logo-desktop">
+                    <Image src="/jatoclean-logo.svg" layout="fill"/>
+                </div>
+                <div class="logo shadow-light logo-mobile">
+                    <Image src="/jatoclean-logo-mobile.svg" layout="fill"/>
                 </div>
             </div>
             <div class="main-bottom">
